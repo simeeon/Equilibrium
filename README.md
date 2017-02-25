@@ -26,6 +26,10 @@ Screenshots:
 - Contacts: <br>
 ![Contacts](http://i.imgur.com/xgv00qi.png?1)
 
+Live demo:
+------------
+http://equilibrium.surge.sh/
+
 Team members:
 -------------
 - Pavel Ilchev (https://github.com/pavelilchev)
@@ -33,3 +37,11 @@ Team members:
 - Ivelina Vassileva (https://github.com/IvelinaVassileva)
 - Petar Shopov (https://github.com/PetarShopov)
 - Vladimir Ananiev (https://github.com/VladimirAnaniev)
+
+How to start:<br>
+-------------
+*** N.B. - The app is not built, so you have to run in under an IDE. *** <br>
+Note that this project doesn't have its node_modules folder installed. If you run it in your IDE you will have to install it manually in order to run the web app. <br>
+1. install https://nodejs.org/en/ <br>
+2. open cmd as admin. Type 'npm -g install create-react-app' then 'npm -g install create-react-app' <br>
+3. open IDE (Webstorm for instance) type 'npm install' then 'npm start' <br>
